@@ -14,4 +14,4 @@ function calcularImc() {
         alert(`Seu IMC é ${imc.toFixed(2)} - Obesidade grau 2`)
     } else if (imc >= 40) {
         alert(`Seu IMC é ${imc.toFixed(2)} - Obesidade Mórbida`)
-    }
+    }}
